@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainShed.Core", "TrainShed.Core\TrainShed.Core.csproj", "{C71B2B45-96F2-441A-987B-1BF91D49DEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainShed.Core.Test", "TrainShed.Core.Test\TrainShed.Core.Test.csproj", "{5D30E898-BDAB-49CA-9507-BE41D7EE42F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71B2B45-96F2-441A-987B-1BF91D49DEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71B2B45-96F2-441A-987B-1BF91D49DEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71B2B45-96F2-441A-987B-1BF91D49DEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71B2B45-96F2-441A-987B-1BF91D49DEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D30E898-BDAB-49CA-9507-BE41D7EE42F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D30E898-BDAB-49CA-9507-BE41D7EE42F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D30E898-BDAB-49CA-9507-BE41D7EE42F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D30E898-BDAB-49CA-9507-BE41D7EE42F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83D7107-E3A1-4DF8-BC9A-86E7F0AE4C13}
+	EndGlobalSection
+EndGlobal
